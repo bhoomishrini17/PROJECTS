@@ -1,3 +1,3 @@
 # PROJECTS
-DBMS 
-this zip file contains online examination project
+DBMS AND MAD  
+This file contains online examination project and keepNote app
